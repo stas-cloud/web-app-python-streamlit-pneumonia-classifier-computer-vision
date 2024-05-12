@@ -11,7 +11,9 @@ Citation: http://www.cell.com/cell/fulltext/S0092-8674(18)30154-5
 # model
 A pneumonia classifier was used to classify X-RAY images into {PNEUMONIA, NORMAL}.
 
-The model was trained by Felipe (aka computervisioneng) using the data provided in the next section and following this step by step tutorial on how to train an image classifier with Teachable Machine.
+The model was trained by Felipe (aka computervisioneng) using Teachable Machine.
+
+I used redy-to-use model: ./model/pneumonia_classifier.h5
 
 # how to run 
 in your terminal: >>>streamlit run main.py
